@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "S3E8kJ50wA0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\OneDrive\\Desktop\\EmployerQuarterlyFederalTaxReturn\\backend\\backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\dapper\\2.1.89\\dapper.2.1.89.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
